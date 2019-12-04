@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
 @RestController
+//@EnableDiscoveryClient
 public class ConfigClientApplication {
 
     public static void main(String[] args) {
